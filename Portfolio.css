@@ -1,0 +1,75 @@
+ * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+.navbar{
+  background-color: blue;
+}
+
+.tit{
+  color: blue;
+}
+.welcome{
+  color: blue;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  /* background-color:rgb(2, 2, 28); */
+  /* color: #333; */
+}
+
+.about-section {
+  padding: 40px 20px;
+  background-color: white;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+  /* color: #222; */
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 30px;
+  color: #444;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+strong {
+  color: white;
+}
+
+
+.card {
+  border-radius: 15px;
+  color: white;
+  background-color: rgb(8, 8, 83);
+}
+
+.card-header {
+  font-size: 1.25rem;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+footer{
+  background-color: rgb(8, 8, 83);
+}
